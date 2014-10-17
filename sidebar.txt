@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ogc:home|Door43 (ogc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ogc|d43-ogc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ogc/archive/master.zip|d43-ogc.zip]]
+
+**Recent Changes**
+{{changes>ns = ogc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ogc|Ethnologue data]]
+
